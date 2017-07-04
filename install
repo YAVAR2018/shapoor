@@ -9,7 +9,7 @@ chmod +x start.sh
 RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
-echo -e "${CYAN}Install Completed! input ./launch.sh for launch bot ${NC}"
+echo -e "${CYAN}Install Completed! khob file config.lua ro dar poshe data baz konid o id user ha ro edit konid (agar be mohit grafiki dasresi nadarid "sudo apt install nano","cd data" "nano config.lua" o edit ro anjam bedid)input ./launch.sh for launch bot  ${NC}"
 exit
 
 
